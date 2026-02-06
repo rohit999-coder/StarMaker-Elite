@@ -1,0 +1,7 @@
+{
+  "name": "EliteApply Pro",
+  "description": "A high-end, multi-step application portal with AI-powered profile optimization and feedback. Built for premium membership and job applications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
